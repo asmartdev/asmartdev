@@ -1,0 +1,22 @@
+{
+  "name": "asmartdev",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "@mdx-js/loader": "^1.6.16",
+    "@next/mdx": "^9.5.2",
+    "@tailwindcss/typography": "^0.2.0",
+    "autoprefixer": "^9.8.6",
+    "moment": "^2.27.0",
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "tailwindcss": "^1.7.3"
+  }
+}
