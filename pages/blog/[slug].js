@@ -40,7 +40,7 @@ const Post = (props) => {
   const MDXContent = dynamic(() => import(`./${props.slug}/index.mdx`));
 
   return (
-    <div>
+    <div class="bg-gray-50 min-h-screen">
       <Head>
         <title>{props.title} | Amber Smart</title>
         <link rel="icon" href="/favicon.ico" />
