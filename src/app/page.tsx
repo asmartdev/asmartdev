@@ -12,11 +12,12 @@ export default function Home() {
         <div className="mb-8 md:float-left md:mr-8 flex md:block place-content-center"></div>
         <div className="mb-8 md:mt-8">
           <h1 className="text-4xl sm:text-5xl font-bold text-fuchsia-800">
-            Hi! I'm Amber.
+            Hi! I&apos;m Amber.
           </h1>
           <p className="leading-relaxed text-lg text-left mt-8 max-w-xl">
-            I'm a software developer living in the Netherlands, with a passion
-            for puzzles, a fondness for film, and an eagerness for escape rooms.
+            I&apos;m a software developer living in the Netherlands, with a
+            passion for puzzles, a fondness for film, and an eagerness for
+            escape rooms.
           </p>
         </div>
         <div className="flex">
